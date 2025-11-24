@@ -1,103 +1,111 @@
- QA Portfolio – Manual Testing Projects
+# 🧪 QA Portfolio – Manual Testing Projects
 
-Dobrodošli u moj QA portfolio!
-Ovaj repozitorij sadrži testnu dokumentaciju koju sam izradio koristeći najbolje prakse manualnog testiranja.
-Uključeni su test caseovi, različiti funkcionalni scenariji i realni primjeri analiziranja web aplikacija.
+Welcome to my QA portfolio!  
+This repository contains examples of manual testing work created using real web applications and structured QA methodologies.  
+All test cases follow a clear and professional format, including steps, expected results, and execution status.
 
-Sadržaj repozitorija
-   -Facebook – Test Cases
+---
 
-Datoteka: facebook-test_cases.xlsx
-Sadrži kompletne testne slučajeve za:
+## 📂 Repository Contents
 
-Facebook Login Form
+### **1️⃣ Facebook – Test Cases**
+**File:** `facebook-test_cases.xlsx`
 
-Facebook Sign Up Form
+This document includes complete test cases for:
+- Facebook Login Form  
+- Facebook Sign Up Form  
+- Functional user flows  
+- Positive and negative scenarios  
+- Multi-step scenarios (5–15 steps)
 
-Pozitivne, negativne scenarije
+Focus areas:
+- UI validation  
+- Functional behaviour  
+- User flow testing  
+- Edge cases such as login from a new device or autofill login
 
-Višekoračne test caseove (i do 15 koraka)
+---
 
-Ova dokumentacija pokazuje razumijevanje autentičnih scenarija stvarne web aplikacije.
+### **2️⃣ HerokuApp – Test Cases**
+**File:** `herokuapp-test_cases.xlsx`
 
-   -HerokuApp – Test Cases
+Covers multiple modules of *The Internet by Herokuapp*, including:
+- Basic Authentication  
+- Checkboxes  
+- Drag & Drop  
+- Dropdown  
+- File Upload & Download
 
-Datoteka: herokuapp-test_cases.xlsx
-Testovi su izrađeni prema demo aplikaciji The Internet (Herokuapp) i pokrivaju:
+Focus areas:
+- Behaviour verification  
+- Interaction testing  
+- Error handling  
+- Input validation  
 
-A/B testing
+---
 
-Add_remove
+### **3️⃣ Notch – Submission Form**
+**File:** `notch-submission_form-test_cases.xlsx`
 
-Basic Auth
+It is an **Application Submission Form** that collects user information and a document upload.
 
-Checkboxes
+Test coverage includes:
+- Field validation  
+- File upload handling  
+- UI behaviour  
+- Form submission flow  
+- Positive and boundary scenarios  
 
-Drag & Drop
+---
 
-Dropdown
+## 🧪 QA Methodologies Used
 
-File Upload
+Across all documents, the following testing practices were applied:
 
-File Download
+### ✔ Functional testing  
+Ensuring each feature behaves as intended.
 
-Dokument sadrži:
+### ✔ UI validation  
+Confirming that error messages, buttons, and layout behave correctly.
 
-Pozitivne i negativne scenarije
+### ✔ User flow testing  
+Checking full journeys, such as:
+- user logs in
+- user creates an account
+- user submits a form
 
-Validaciju interakcija i UI ponašanja
+### ✔ Edge case testing  
+Testing less common but important scenarios  
+(e.g., autofill login, new device login, custom gender selection).
 
-   Notch – Login Test Cases
+### ✔ Smoke testing  
+Quick checks verifying that essential features work after deployment.
 
-Datoteka: notch-login_form-test_cases.xlsx
-Ručno kreirani test caseovi koji uključuju:
+### ✔ Exploratory testing  
+Free investigation of an application to discover unexpected behaviour.
 
-Validaciju login funkcionalnosti
+### ✔ Structured test documentation  
+Each test case includes:
+- ID  
+- Summary  
+- Preconditions  
+- Detailed steps  
+- Expected result  
+- Actual result  
+- Status  
 
-Testiranje različitih kombinacija firstname/lastname/email
+---
 
-Validaciju poruka grešaka
+## 🎯 Purpose of This Portfolio
 
-Provjeru UI reakcija i edge scenarija
+The goal of this repository is to demonstrate:
+- My understanding of QA principles  
+- Ability to design clear and reliable test cases  
+- Real-world testing of active websites  
+- Strong attention to detail  
+- Practical application of manual testing techniques  
 
-Ovaj dokument prikazuje sposobnost samostalnog analiziranja login sustava.
+---
 
- Testna metodologija
-
-U svim dokumentima primijenjena je struktura:
-
-ID
-
-Summary
-
-Preconditions
-
-Test Steps
-
-Expected results
-
-Actual results
-
-Status
-
-Korištene QA metode:
-
-Funkcionalno testiranje
-
-Negativni scenariji
-
-Smoke testovi
-
-Exploratory testiranje
-
-    Cilj portfolija
-
-Ovaj repozitorij služi kao demonstracija mojih praktičnih QA vještina:
-
-Pisanje jasnih i preciznih test caseova
-
-Strukturiranje testne dokumentacije
-
-Rad s realnim web aplikacijama
-
-Analitičko razmišljanje i pokrivanje edge scenarija
+## 📎 Contact
+Feel free to reach out for collaboration or additional sample work.
